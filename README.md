@@ -44,5 +44,7 @@ Explore the displayed weather details for the current conditions and forecast.
 
 Contributions are welcome! If you'd like to contribute by adding features, improving UI, or fixing issues, feel free to fork this repository, make your changes, and submit a pull request.
 
-
+**contact by**
+ byrisettynavya@gmail.com
+ 
 
